@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Jul 2021 00:03:57 at https://yanderesimulator.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://yanderesimulator.com/ -O1 "D:\Documents\fard\yanderedev" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:04:01	Warning: 	Moved Permanently for https://yanderesimulator.com/blog/
+00:04:01	Warning: 	File has moved from https://yanderesimulator.com/blog/ to https://yanderedev.wordpress.com
+00:06:17	Warning: 	HTML file (21973 bytes) retransferred due to lack of cache: https://yanderesimulator.com/blog-images/?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FzHx0Bi3gdjE%2Fmaxresdefault.jpg
+00:06:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://yanderesimulator.com/YandereSimLauncher.zip
+00:06:35	Error: 	"Cancelled by User" (-1) at link https://yanderesimulator.com/dl/latest.zip (from https://yanderesimulator.com/download/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 43 seconds : 157 links scanned, 223 files written (215989751 bytes overall) [642269193 bytes received at 3940301 bytes/sec], 13798621 bytes transferred using HTTP compression in 32 files, ratio 96%, 2.8 requests per connection
+(1 errors, 4 warnings, 0 messages)
